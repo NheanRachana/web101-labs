@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fish Amok Recipe</title>
+</head>
+<body>
+    <!-- Recipe Title and Subtitle -->
+    <h1>Fish Amok (Amok Trey)</h1>
+    <h2>Cambodia’s National Dish</h2>
+
+    <!-- Photo of the Dish -->
+    <img src="fish amok.jpg" alt="Traditional Khmer Fish Amok served in banana leaves" width="400">
+
+    <!-- Ingredients List -->
+    <h3>Ingredients</h3>
+    <ul>
+        <li>500g white fish fillets (catfish or tilapia)</li>
+        <li>2 cups coconut milk</li>
+        <li>2 tbsp fish sauce</li>
+        <li>2 tbsp palm sugar</li>
+        <li>2 eggs</li>
+        <li>2 tbsp Khmer curry paste (kroeung)</li>
+        <li>Banana leaves (for steaming cups)</li>
+        <li>Fresh kaffir lime leaves, thinly sliced</li>
+        <li>Red chili slices (for garnish)</li>
+        <li>Steamed jasmine rice (to serve)</li>
+    </ul>
+
+    <!-- Steps -->
+    <h3>Instructions</h3>
+    <ol>
+        <li>Prepare banana leaf cups by folding and securing with toothpicks.</li>
+        <li>Cut fish fillets into bite-sized pieces.</li>
+        <li>In a bowl, mix coconut milk, curry paste, fish sauce, palm sugar, and eggs until smooth.</li>
+        <li>Add fish pieces into the mixture and stir well.</li>
+        <li>Spoon the mixture into banana leaf cups.</li>
+        <li>Steam for 20–25 minutes until the custard is set and fish is cooked.</li>
+        <li>Garnish with kaffir lime leaves and red chili slices.</li>
+        <li>Serve hot with steamed jasmine rice.</li>
+    </ol>
+
+    <!-- Nutrition Table -->
+    <h3>Nutrition Information (per serving)</h3>
+    <table border="1">
+        <tr>
+            <th>Calories</th>
+            <th>Protein</th>
+            <th>Fat</th>
+        </tr>
+        <tr>
+            <td>350 kcal</td>
+            <td>25 g</td>
+            <td>22 g</td>
+        </tr>
+    </table>
+
+    <!-- YouTube Video -->
+    <h3>Watch a Cooking Video</h3>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/i1PlbP5Tn7w?si=bPYsrDM3qN1kgUvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <!-- Link Back to Bio Page -->
+    <p><a href="https://github.com/NheanRachana/web101-labs.git">Back to My Bio Page</a></p>
+</body>
+</html>
